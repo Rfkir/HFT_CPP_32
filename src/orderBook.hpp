@@ -2,7 +2,7 @@
 #define ORDERBOOK_HPP
 #include <stdint.h>
 //#include "hash.hpp"
-#define MAX_PRICE_LEVELS 500
+#define MAX_PRICE_LEVELS 500000
 
 
 struct PriceLevel{
